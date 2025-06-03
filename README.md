@@ -9,7 +9,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeajune11117)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeajune11117)](https://solved.ac/jeajune11117/)
 
 
 <!--
